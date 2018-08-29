@@ -7,6 +7,7 @@ public class gitLab {
 			if(y == i) {
 				y++;
 			}
+			y--;
 		}
 	}
 }
